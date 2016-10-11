@@ -1,0 +1,24 @@
+{
+  "name": "durruti-dbmonster",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Basic [dbmonster](https://dbmonster.firebaseapp.com/) benchmark with [Durruti](https://github.com/ghinda/durruti).",
+  "main": "ENV.js",
+  "dependencies": {
+    "durruti": "^0.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghinda/durruti-dbmonster.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghinda/durruti-dbmonster/issues"
+  },
+  "homepage": "https://github.com/ghinda/durruti-dbmonster#readme"
+}
